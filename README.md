@@ -4,6 +4,13 @@ This website collects recent works and datasets on learning to hash for recommen
 
 ##### If you find our project is useful to your research or work, please give us a star ⭐ on GitHub for the latest update and cite our paper. Thank you!
 
+> **Paper**: [Learning to Hash for Recommendation: A Survey](https://arxiv.org/abs/2412.03875)
+
+> **Authors**: Fangyuan Luo<sup>1</sup>, Honglei Zhang<sup>2</sup>, Tong Li<sup>1</sup>, Jun Wu<sup>2</sup>
+
+> **Affliation**: <sup>1</sup>Beijing University of Technology, <sup>2</sup>Beijing Jiaotong University
+
+
 ## Surveys
 
 1. A. Singh and S. Gupta, “[Learning to hash: a comprehensive survey of deep learning-based hashing methods](https://link.springer.com/article/10.1007/s10115-022-01734-0),” *Knowledge and Information Systems*, vol. 64, no. 10, pp. 2565–2597, 2022.
@@ -99,3 +106,12 @@ We collect some datasets ([Download](https://drive.google.com/drive/folders/162l
 ## Tips
 
 🔥🔥 We will keep updating this list, and if you find any missing related work or have any suggestions, please feel free to contact us (luofangyuan@bjut.edu.cn).
+
+```
+@article{Luo2024HashRec,
+  title = {Learning to Hash for Recommendation: A Survey},
+  author = {Fangyuan Luo, Honglei Zhang, Tong Li and Jun Wu},
+  year = {2024},
+  journal = {arXiv preprint arXiv: 2412.03875}
+}
+```
