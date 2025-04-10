@@ -6,9 +6,9 @@ This website collects recent works and datasets on learning to hash for recommen
 
 > **Paper**: [Learning to Hash for Recommendation: A Survey](https://arxiv.org/abs/2412.03875)
 
-> **Authors**: Fangyuan Luo<sup>1</sup>, Honglei Zhang<sup>2</sup>, Tong Li<sup>1</sup>, Jun Wu<sup>2</sup>
+> **Authors**: Fangyuan Luo<sup>1</sup>, Honglei Zhang<sup>2</sup>, Tong Li<sup>1</sup>, Jun Wu<sup>2</sup>, Guandong Xu<sup>3</sup>, Haoxuan Li<sup>4</sup>
 
-> **Affliation**: <sup>1</sup>Beijing University of Technology, <sup>2</sup>Beijing Jiaotong University
+> **Affliation**: <sup>1</sup>Beijing University of Technology, <sup>2</sup>Beijing Jiaotong University, <sup>3</sup>The Education University of Hong Kong, <sup>4</sup>Peking University
 
 
 ## Surveys
@@ -26,7 +26,6 @@ This website collects recent works and datasets on learning to hash for recommen
 | Learning binary codes for collaborative filtering | BCCF |KDD'12|User-Item CF|Pointwise, Pairwise|Two-Stage| [PDF](https://dl.acm.org/doi/10.1145/2339530.2339611)| [Code](https://github.com/DefuLian/recsys/tree/master/alg/discrete)|
 | Collaborative Hashing | CH |CVPR'14|User-Item CF|Pointwise|Two-Stage| [PDF](https://xlliu-beihang.github.io/file/cvpr2014.pdf)| [Code](https://github.com/DefuLian/recsys/tree/master/alg/discrete)|
 | Preference preserving hashing for efficient recommendation | PPH |SIGIR'14|User-Item CF|Pointwise|Two-Stage| [PDF](https://dl.acm.org/doi/10.1145/2600428.2609578)| [Code](https://github.com/DefuLian/recsys/tree/master/alg/discrete)|
-| Constraint Free Preference Preserving Hashing for  Fast Recommendation | NQ |IEEE GLOBECOM'16|User-Item CF|Pointwise|Two-Stage| [PDF](https://ieeexplore.ieee.org/abstract/document/7841687) | [Code]() |
 | Discrete Collaborative Filtering | DCF |SIGIR'14|User-Item CF|Pointwise|One-Stage| [PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir16-dcf-cm.pdf)| [Code](https://github.com/hanwangzhang/Discrete-Collaborative-Filtering)|
 | Discrete Content-aware Matrix Factorization | DCMF |KDD'17|Cold-Start|Pointwise|One-Stage| [PDF](https://dl.acm.org/doi/10.1145/3097983.3098008)| [Code](https://github.com/DefuLian/recsys/tree/master/alg/discrete/dcmf)|
 | Discrete Personalized Ranking for Fast Collaborative Filtering from Implicit Feedback | DPR |AAAI'17|User-Item CF|Pairwise|One-Stage| [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/10764)| [Code](https://github.com/yixianqianzy/dpr)|
@@ -58,7 +57,6 @@ This website collects recent works and datasets on learning to hash for recommen
 | Explainable discrete Collaborative Filtering | EDCF |IEEE TKDE'22|Explainable Recommendation|Pointwise|Two-Stage| [PDF](https://ieeexplore.ieee.org/document/9802915)| [Code](https://github.com/zzmylq/EDCF)|
 | Discrete Limited Attentional Collaborative Filtering for Fast Social Recommendation | DLACF |EAAI'23|Social Recommendation|Pointwise|Two-Stage| [PDF](https://www.sciencedirect.com/science/article/pii/S0952197623006218) | [Code](https://github.com/qhgz2013/DLACF) |
 | Personalized Fashion Recommendation With Discrete Content-Based Tensor Factorization | FHN+ |IEEE TMM'23|Outfit Recommendation|Pairwise|Two-Stage| [PDF](https://ieeexplore.ieee.org/document/9808340) | [Code]() |
-| Hashing-based semantic relevance attributed knowledge graph embedding enhancement for deep probabilistic recommendation | H-SAGE |Applied Intelligence'23|KG-based Recommendation|Pointwise|Two-Stage| [PDF](https://link.springer.com/article/10.1007/s10489-022-03235-7) | [Code]() |
 | Bipartite Graph Convolutional Hashing for Effective and Efficient Top-N Search in Hamming Space | BGCH |WWW'23|User-Item CF|Heterogeneous|Two-Stage| [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583219)| [Code](https://github.com/yankai-chen/BGCH)|
 | Multi-Modal Discrete Collaborative Filtering for Efficient Cold-Start Recommendation | MDCF |IEEE TKDE'23|Cold-Start|Pointwise|One-Stage| [PDF](https://ieeexplore.ieee.org/document/9429954)| [Code](https://github.com/zzmylq/MDCF)|
 | LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization | LightFR | ACM TOIS'23 | Federated Recommendation | Pointwise | One-Stage | [PDF](https://ieeexplore.ieee.org/document/9429954)| [Code](https://github.com/hongleizhang/LightFR)|
