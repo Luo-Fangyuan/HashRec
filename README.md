@@ -6,9 +6,9 @@ This website collects recent works and datasets on learning to hash for recommen
 
 > **Paper**: [Learning to Hash for Recommendation: A Survey](https://arxiv.org/abs/2412.03875)
 
-> **Authors**: Fangyuan Luo<sup>1</sup>, Honglei Zhang<sup>2</sup>, Tong Li<sup>1</sup>, Jun Wu<sup>2</sup>, Guandong Xu<sup>3</sup>, Haoxuan Li<sup>4</sup>
+> **Authors**: Fangyuan Luo<sup>1</sup>, Yankai Chen<sup>3,4</sup>, Jun Wu<sup>2</sup>, Tong Li<sup>1</sup>, Philip S. Yu<sup>3</sup>, Xue Liu<sup>4</sup>
 
-> **Affliation**: <sup>1</sup>Beijing University of Technology, <sup>2</sup>Beijing Jiaotong University, <sup>3</sup>The Education University of Hong Kong, <sup>4</sup>Peking University
+> **Affliation**: <sup>1</sup>Beijing University of Technology, <sup>2</sup>Beijing Jiaotong University, <sup>3</sup>University of Illinois Chicago, <sup>4</sup> MBZUAI, McGill University
 
 
 ## Surveys
