@@ -108,7 +108,7 @@ We collect some datasets ([Download](https://drive.google.com/drive/folders/162l
 ```
 @article{Luo2024HashRec,
   title = {Learning to Hash for Recommendation: A Survey},
-  author = {Fangyuan Luo, Honglei Zhang, Tong Li and Jun Wu},
+  author = {Fangyuan Luo, Yankai Chen, Jun Wu, Tong Li, Philip S. Yu, Xue Liu},
   year = {2024},
   journal = {arXiv preprint arXiv: 2412.03875}
 }
